@@ -57,4 +57,3 @@ if __name__ == '__main__':
     log_path = cfg['logger'].get('log_directory')
     logger = mylogger.get_logger(log_path)
     ret = crawl_stock(logger)
-
