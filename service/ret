@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+<!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+<!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+{"msg":"","result":{"SK\ud558\uc774\ub2c9\uc2a4":1222000.0,"\uace0\uc601":42300.0,"\ub300\uc6b0\uac74\uc124":32800.0,"\ub450\uc0b0\uc5d0\ub108\ube4c\ub9ac\ud2f0":127100.0,"\ub9ac\ub178\uacf5\uc5c5":124400.0,"\uc0bc\uc131SDI":641000.0,"\uc0bc\uc131\uc804\uc790":219500.0,"\uc0bc\uc131\uc911\uacf5\uc5c5":34400.0,"\ud384\uc5b4\ube44\uc2a4":57000.0,"\ud604\ub300\ucc28":513000.0}}
+<!doctype html>
+<html lang=en>
+<title>400 Bad Request</title>
+<h1>Bad Request</h1>
+<p>The browser (or proxy) sent a request that this server could not understand.</p>
